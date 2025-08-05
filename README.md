@@ -1,8 +1,8 @@
-[phishing_analysis_framework.csv](https://github.com/user-attachments/files/21593868/phishing_analysis_framework.csv)[phishing_analysis_framework.csv](https://github.com/user-attachments/files/21593833/phishing_analysis_framework.csv)# Analyze a Phishing Email Sample
+# Analyze a Phishing Email Sample
 
 This repository offers a comprehensive guide and essential resources for effectively analyzing phishing email samples. By following the detailed steps and utilizing the provided materials, you'll gain a deeper understanding of how to identify malicious indicators, trace the origins of these deceptive emails, and ultimately recognize the sophisticated techniques employed by cybercriminals in their phishing campaigns. This knowledge is crucial for both individuals and organizations looking to bolster their defenses against such prevalent threats.
 
-## Features
+# Features
 
   * **Sample Phishing Email**: This repository includes a carefully selected, real-world example of a phishing email. This sample serves as the primary subject for your analysis, allowing you to apply the learned techniques in a practical context. By examining a genuine phishing attempt, you can better grasp the subtle nuances and deceptive strategies that attackers often employ.
   * <img width="2048" height="1518" alt="phishing image sample" src="https://github.com/user-attachments/assets/7d0c06b1-3abd-4522-bde9-43b8884a7c5e" />
