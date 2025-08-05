@@ -9,7 +9,8 @@ This repository offers a comprehensive guide and essential resources for effecti
 
 
   * **Analysis Walkthrough**: We provide a step-by-step guide with detailed instructions on how to meticulously examine the various components of a phishing email. This includes in-depth explanations of how to interpret email headers to trace the sender's information and the email's journey, as well as techniques for safely investigating embedded links and potentially malicious attachments without compromising your security.
-![phishing email](https://github.com/user-attachments/assets/6fb795a0-fe21-4386-8158-f2d81be8cc35)
+  * ![phishing email](https://github.com/user-attachments/assets/c1aea7a3-8b66-4767-ac2b-29de412fdccf)
+
 
   * **Tools and Resources**: To facilitate your analysis, this repository contains a curated list of valuable free tools and external websites that are commonly used in cybersecurity investigations. These resources can aid in header analysis, URL scanning, malware detection, and obtaining threat intelligence, making the analysis process more efficient and insightful.
 
