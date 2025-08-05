@@ -9,20 +9,7 @@ This repository offers a comprehensive guide and essential resources for effecti
 
 
   * **Analysis Walkthrough**: We provide a step-by-step guide with detailed instructions on how to meticulously examine the various components of a phishing email. This includes in-depth explanations of how to interpret email headers to trace the sender's information and the email's journey, as well as techniques for safely investigating embedded links and potentially malicious attachments without compromising your security.
-[UploadingAnalysis Component,What to Look For,Red Flags,Tools/Methods
-Email Header Analysis,"Received fields, routing information, server paths","Multiple hops through suspicious servers, missing headers","MXToolbox, Message Header Analyzer, manual inspection"
-Sender Verification,"From field, display name vs actual email address","Display name impersonation, mismatched domains","Email client header view, WHOIS lookup"
-Domain Analysis,"Suspicious domains, typosquatting, public email domains","Misspelled domains, recently registered domains, free email providers","WHOIS database, DNS lookup tools, domain age checkers"
-URL Analysis,"Malicious links, shortened URLs, domain mismatches","Suspicious redirects, IP-based URLs, URL shorteners","URL analysis tools, VirusTotal, safe browsing APIs"
-Attachment Analysis,"Unexpected attachments, file types, password-protected files","Executable files, macro-enabled documents, encrypted archives","Sandboxing, antivirus scanning, file analysis tools"
-Content Analysis,"Grammar errors, urgency language, social engineering tactics","Poor grammar, urgent threats, too-good-to-be-true offers","Manual review, natural language processing, AI detection"
-Authentication Check,"SPF, DKIM, DMARC authentication results","Authentication failures, missing records, policy violations","SPF/DKIM/DMARC checkers, email authentication tools"
-IP Address Analysis,"Originating IP address, geolocation, reputation","Suspicious geographic locations, blacklisted IPs, residential IPs","IP geolocation tools, reputation databases, OSINT"
-Message ID Verification,"Unique message identifier, duplicate detection","Duplicate message IDs, unusual formatting","Email forensics tools, duplicate detection systems"
-Timestamp Analysis,"Send time anomalies, timezone inconsistencies","Unusual send times, inconsistent timezones","Timestamp analysis tools, timezone converters"
-Reply-To Analysis,Reply address different from sender address,Reply-to addresses from different domains or suspicious addresses,"Email header parsers, domain verification tools"
-X-Headers Analysis,"Custom headers, spam scores, routing information","High spam scores, suspicious routing, missing authentication headers","Header analysis tools, spam detection systems"
- phishing_analysis_framework.csv…]()
+![phishing email](https://github.com/user-attachments/assets/6fb795a0-fe21-4386-8158-f2d81be8cc35)
 
   * **Tools and Resources**: To facilitate your analysis, this repository contains a curated list of valuable free tools and external websites that are commonly used in cybersecurity investigations. These resources can aid in header analysis, URL scanning, malware detection, and obtaining threat intelligence, making the analysis process more efficient and insightful.
 
@@ -36,12 +23,6 @@ X-Headers Analysis,"Custom headers, spam scores, routing information","High spam
 
   * **Header Analysis**: A critical aspect of phishing analysis is the ability to interpret email headers. This repository will teach you how to access and analyze these often-overlooked metadata fields to uncover the email's true origin, including the sending server's IP address and geographical location. Understanding the delivery path can reveal discrepancies and inconsistencies that point to malicious activity.
 
-    \<br\>
-
   * **Link Investigation**: Phishing emails frequently contain deceptive links that redirect victims to malicious websites designed to steal credentials or install malware. You will learn safe methods for examining these suspicious URLs without clicking on them, such as hovering over links to preview the destination and using online link analysis tools to assess their safety.
 
   * **Threat Intelligence**: By analyzing the phishing sample, you will gain valuable insight into the tactics, techniques, and procedures (TTPs) commonly employed by attackers. This includes understanding the specific social engineering lures they use, the types of malicious payloads they distribute, and the overall strategies behind their campaigns. This knowledge enhances your ability to proactively identify and mitigate future threats.
-
-    \<br\>
-
-    \*\*
